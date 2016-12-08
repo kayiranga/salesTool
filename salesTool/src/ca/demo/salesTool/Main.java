@@ -12,6 +12,7 @@ public class Main {
 	public static void displayGreeting(){
 		System.out.println("Hello happy sales people");
 		System.out.println("This app show sales data");
+		System.out.println("Test 1");
 	}
 
 }
